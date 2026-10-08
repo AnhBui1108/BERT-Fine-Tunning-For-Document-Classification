@@ -9,7 +9,7 @@ The project uses a dataset of scientific paper abstracts and their corresponding
 - Data cleaning and preprocessing.
 - Building a custom PyTorch Dataset.
 - Fine-tuning a pre-trained BERT model.
-- Evaluating model performance across different batch sizes.
+- Evaluating model performance across different hyperparameters such as batch size, learning rate, number of EPOCH, etc.
 
 ## Dataset
 
@@ -37,7 +37,7 @@ The project uses a dataset of scientific paper abstracts and their corresponding
 
 1. Clone the repository:
    ```
-   git clone https://github.com/anhbui1108/bert-fine-tuning.git
+   git clone https://github.com/AnhBui1108/BERT-Fine-Tunning-For-Document-Classification.git
    cd bert-fine-tuning
    ```
 2. Install dependencies:
